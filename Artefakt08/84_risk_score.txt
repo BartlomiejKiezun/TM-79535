@@ -1,0 +1,6 @@
+FINAL SECURITY SCORE: 30/100
+------------------------------
+LISTA KAR PUNKTOWYCH:
+[-20] Poważna luka w com.google.android.gms (High)
+[-10] Średnia luka w com.squareup.okhttp (Medium)
+[-40] Krytyczna luka w org.apache.commons (Critical)
